@@ -17,10 +17,12 @@ section.pipeline-component {
 section.pipeline-component h1 {
     font-size: 38px;
     font-weight: bold;
+    text-align: center;
 }
 
 section.pipeline-component h2 {
     font-size: 24px;
+    text-align: center;
 }
 
 div.changes h1 {
