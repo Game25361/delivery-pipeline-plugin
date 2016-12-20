@@ -1,8 +1,9 @@
 body {
     font-family: sans-serif;
-    background: #fff;
+    background: #3095c6;
     color: #fefefe;
     font-size: 14px;
+    padding: 40px;
 }
 
 div.pipeline-loading-icon {
